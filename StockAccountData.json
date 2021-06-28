@@ -1,0 +1,24 @@
+{
+  "stock account": [
+    {
+      "stockname": "Google",
+      "numberofstocks": 232,
+      "stockprice": 99
+    },
+    {
+      "stockname": "MindTree",
+      "numberofstocks": 23,
+      "stockprice": 21
+    },
+    {
+      "stockname": "Tesla",
+      "numberofstocks": 28,
+      "stockprice": 90
+    },
+    {
+      "stockname": "Infosys",
+      "numberofstocks": 23,
+      "stockprice": 56
+    }
+  ]
+}
