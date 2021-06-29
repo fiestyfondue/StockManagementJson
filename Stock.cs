@@ -16,7 +16,7 @@ namespace StockManagement
             //Variables
             int ValueOfStock, totalValueOfStock = 0;
             //json FilePath
-            string filepath = @"C:\Users\HP\Desktop\desktop\C#\StockManagement\StockAccountData.json";
+            string filepath = @"C:\Users\HP\Desktop\desktop\C#\StockManagement\StockManagementJson\StockAccountData.json";
             var jsonOutput = File.ReadAllText(filepath);
             var jObject = JObject.Parse(jsonOutput);
             var stockArray = (JArray)jObject["stock account"];
